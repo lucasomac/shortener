@@ -1,0 +1,1 @@
+{"version":"0.0.0","name":"shortener","dependencies":{"cookie-parser":{"version":"1.4.5"},"debug":{"version":"2.6.9"},"dotenv":{"version":"10.0.0"},"ejs":{"version":"2.6.2"},"express":{"version":"4.16.4"},"http-errors":{"version":"1.6.3"},"morgan":{"version":"1.9.1"},"sequelize":{"version":"6.7.0"},"sqlite3":{"version":"4.2.0"}}}
